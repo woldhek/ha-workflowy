@@ -60,6 +60,7 @@ class WorkflowyRootNodeSensor(SensorEntity):
         # Initiële naam (wordt bij update vervangen door de echte node naam)
         suffix = f" ({parent_node_id})" if parent_node_id else ""
         self._attr_name = f"{entry_title}{suffix}"
+        self._attr_icon = "mdi:subtext"
         self._attr_unique_id = f"workflowy_root_node_{parent_node_id or 'default'}"
         self._attr_native_value = None
 

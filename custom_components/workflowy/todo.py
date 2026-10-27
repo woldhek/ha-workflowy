@@ -68,6 +68,7 @@ class WorkflowyTodoListEntity(TodoListEntity):
         
         suffix = f" ({parent_node_id})" if parent_node_id else ""
         self._attr_name = f"{entry_title}{suffix}"
+        self._attr_icon = "mdi:format-list-checks"
         self._attr_unique_id = f"workflowy_todo_{parent_node_id or 'root'}"
         self._items: list[TodoItem] = []
 
