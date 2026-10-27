@@ -1,7 +1,7 @@
 {
   "domain": "workflowy",
   "name": "Workflowy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "config_flow": true,
   "codeowners": ["@woldhek"],
   "documentation": "https://github.com/oldhek/ha-workflowy/docs",
