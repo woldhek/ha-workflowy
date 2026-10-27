@@ -1,0 +1,14 @@
+{
+  "name": "Home Assistant Dev Container",
+  "image": "ghcr.io/home-assistant/devcontainer:stable",
+  "postCreateCommand": "pip install --upgrade homeassistant pytest pytest-homeassistant-custom-component",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "keesschollaart.vscode-home-assistant"
+      ]
+    }
+  },
+  "forwardPorts": [8123]
+}

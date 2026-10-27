@@ -1,0 +1,27 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Workflowy Verbinden",
+        "description": "Vul je Workflowy API Key in om te verbinden.",
+        "data": {
+          "api_key": "API Key"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Kan geen verbinding maken met Workflowy. Controleer je API Key."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Workflowy Instellingen",
+        "description": "Selecteer welke Workflowy mappen/nodes je wilt laden als losse takenlijst en sensor.",
+        "data": {
+          "parent_node_id": "Selecteer Root Nodes"
+        }
+      }
+    }
+  }
+}

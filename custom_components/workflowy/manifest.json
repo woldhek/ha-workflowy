@@ -1,0 +1,9 @@
+{
+  "domain": "workflowy",
+  "name": "Workflowy Integration",
+  "version": "1.0.0",
+  "config_flow": true,
+  "codeowners": ["@ywoldhek"],
+  "documentation": "https://github.com/oldhek/ha-workflowy/docs",
+  "iot_class": "cloud_polling"
+}
