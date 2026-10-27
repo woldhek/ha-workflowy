@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <title>404</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="shortcut icon" href="/media/home/images/favicon.2f5b671c0ae6.png" type="image/x-icon">
+  <link rel="apple-touch-icon" href="/media/home/images/webclip.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+  <link rel="stylesheet" type="text/css" href="/media/css/reset.11b989919d8b.css">
+  <link rel="stylesheet" type="text/css" href="/media/css/tailwind.9b4403546fcc.css">
+  <link rel="stylesheet" type="text/css" href="/media/themes/design.f525a295a445.css">
+  <link rel="stylesheet" type="text/css" href="/media/themes/default.596f0f5da931.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Roboto:wght@300;400;700&display=swap">
+
+  <style nonce="YoYPvE6nKSRmRtNbJFi/Pw==">
+    * { box-sizing: border-box; }
+  </style>
+
+  
+
+  <script src="/media/commands.7ec9dd11cd28.js"></script>
+  <script defer src="/media/alpine-3.15.1.20a1849ea337.js"></script>
+  <style>[x-cloak] { display: none !important; }</style>
+</head>
+
+<body
+  class="
+    _theme-default
+    [font-family:var(--wf-font-family-brand)]
+    !max-w-[100vw]
+    bg-primary
+    text-primary
+    leading-base
+
+    [&_h1]:text-2xl
+    md:[&_h1]:text-5xl
+
+    [&_h2]:text-l
+    md:[&_h2]:text-3xl
+
+    [&_h3]:text-m
+    md:[&_h3]:text-xl
+    [&_h3]:font-semi-bold
+
+    [&_h4]:text-base
+    md:[&_h4]:text-l
+    [&_h4]:font-normal
+
+    [&_p]:text-base
+
+    [&_a]:no-underline
+    [&_a:hover]:underline
+    [&_a]:text-secondary
+
+    [&_.button:hover]:no-underline
+    [&_.button]:font-normal
+    [&_.button]:text-primary
+    [&_.button]:rounded-pill
+    [&_.button]:text-center
+    [&_.button]:py-m
+    [&_.button]:px-xl
+    [&_.button]:bg-secondary
+    [&_.button]:transition-all
+    [&_.button]:cursor-pointer
+    [&_.button:hover]:bg-tertiary
+
+    [&_.button.primary]:bg-tint
+    [&_.button.primary:hover]:!bg-tint
+    [&_.button.primary]:text-on-color
+
+    [&_.section]:flex
+    [&_.section]:flex-col
+    [&_.section]:gap-l
+    md:[&_.section]:gap-xl
+    [&_.section]:px-l
+    [&_.section]:py-2xl
+    [&_.section]:w-full
+    md:[&_.section]:py-4xl
+    md:[&_.section]:items-center
+  "
+>
+            <script nonce="YoYPvE6nKSRmRtNbJFi/Pw==">
+                if ('caches' in window) {
+                    caches.keys().then(function(cacheNames) {
+                        cacheNames.forEach(function(cacheName) {
+                            caches.delete(cacheName);
+                        });
+                    });
+                }
+            </script>
+            
+  
+    <div id="header" class="bg-primary border-b border-solid border-primary z-10 sticky top-0 !text-s">
+  <div role="banner" class="relative">
+    <div class="max-w-7xl mx-auto px-l sm:px-xl lg:px-2xl">
+      <div class="flex items-center justify-between h-4xl">
+        <a
+          href="/"
+          class="flex items-center space-x-m hover:opacity-80 transition-opacity no-underline"
+        >
+          <img
+            loading="lazy"
+            src="/media/home/images/workflowy-logo.svg"
+            alt=""
+            class="h-xl w-xl"
+          />
+          <div class="text-base font-bold text-primary">Workflowy</div>
+        </a>
+
+        <div class="md:hidden flex items-center gap-s">
+          
+
+          <button
+            id="mobile-menu-button"
+            type="button"
+            aria-label="Open menu"
+            class="!bg-white border border-solid border-primary hover:!bg-secondary rounded-m p-m text-secondary flex items-center justify-center hover:text-primary"
+          >
+            <svg
+              class="w-xl h-xl"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M4 6h16M4 12h16M4 18h16"
+              />
+            </svg>
+          </button>
+        </div>
+
+        <nav
+          id="main-nav"
+          class="
+            hidden md:flex md:items-center md:space-x-2xl absolute md:relative
+            top-full md:top-auto left-0 right-0 md:left-auto md:right-auto
+            bg-primary md:bg-transparent border-t md:border-t-0 border-subtle px-l
+            md:px-0 py-l md:py-0 flex-col md:flex-row space-y-l md:space-y-0 z-50
+          "
+        >
+          <div class="relative group">
+            <a
+              href="/help/get-started"
+              class="text-secondary hover:text-primary no-underline transition-colors font-semibold md:font-normal flex items-center gap-xs"
+            >
+              Using Workflowy
+              <svg class="w-m h-m" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </a>
+            <div
+              class="
+                flex flex-col pl-l mt-s space-y-s
+                md:hidden md:group-hover:flex md:group-focus-within:flex
+                md:absolute md:top-full md:left-0 md:mt-0 md:pl-0 md:space-y-0
+                md:bg-primary md:border md:border-solid border-primary md:rounded-m md:shadow-lg
+                md:py-s md:min-w-[200px]
+              "
+            >
+              <a href="/help/get-started" class="text-secondary hover:text-primary no-underline transition-colors md:block md:px-l md:py-s md:hover:bg-secondary">Help</a>
+              <a href="/help/guides-and-workflows" class="text-secondary hover:text-primary no-underline transition-colors md:block md:px-l md:py-s md:hover:bg-secondary">Guides and workflows</a>
+              <a href="/help/integrations" class="text-secondary hover:text-primary no-underline transition-colors md:block md:px-l md:py-s md:hover:bg-secondary">Integrate other apps</a>
+              <a href="/api-reference/" class="text-secondary hover:text-primary no-underline transition-colors md:block md:px-l md:py-s md:hover:bg-secondary">Developer API</a>
+            </div>
+          </div>
+          <a href="/pricing/" class="text-secondary hover:text-primary no-underline transition-colors font-semibold md:font-normal">Pricing</a>
+          <a href="/download/" class="text-secondary hover:text-primary no-underline transition-colors font-semibold md:font-normal">Downloads</a>
+          <a href="/login/" class="button primary no-underline">Sign up / Log in</a>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  <script nonce="YoYPvE6nKSRmRtNbJFi/Pw==">
+    (function () {
+      const button = document.getElementById("mobile-menu-button");
+      const menu = document.getElementById("main-nav");
+
+      if (button && menu) {
+        button.addEventListener("click", function () {
+          const isHidden = menu.classList.contains("hidden");
+          if (isHidden) {
+            menu.classList.remove("hidden");
+            menu.classList.add("flex");
+          } else {
+            menu.classList.add("hidden");
+            menu.classList.remove("flex");
+          }
+        });
+      }
+
+    })();
+  </script>
+
+  <style>
+    #main-nav a,
+    #main-nav button {
+      -webkit-tap-highlight-color: transparent;
+      tap-highlight-color: transparent;
+    }
+  </style>
+</div>
+  
+
+  
+  <div class="section flex flex-col my-4xl !gap-3xl">
+    <div class="flex flex-col items-center text-center gap-2xl max-w-2xl">
+      <h1 class="font-bold">4O4.</h1>
+      <p class="!text-m text-tertiary">Sorry, the page you’re looking for is no longer there or you don&#39;t have permission to view it.</p>
+    </div>
+
+  </div>
+
+
+  
+    <div
+  class="
+    grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-5
+    p-xl
+    md:p-3xl
+    gap-xl
+    mx-auto
+
+    border-t
+    border-solid
+    border-primary
+    !text-s
+
+    [&_li]:my-xs
+  "
+>
+  <div class="flex-1 flex flex-col gap-s">
+    <h5>Product</h5>
+    <ul>
+      <li><a href="/team-signup/" title="Teams">Teams</a></li>
+      <li><a href="/edu/" title="Education">Education</a></li>
+      <li><a href="/integrations/" title="Integrations">Integrations</a></li>
+      <li><a href="/whats-new/" title="What's New">What's New</a></li>
+    </ul>
+  </div>
+  <div class="flex-1 flex flex-col gap-s">
+    <h5>Resources</h5>
+    <ul>
+      <li><a href="/help/get-started" title="Get Started">Get Started</a></li>
+      <li><a href="/templates/" title="Templates">Templates</a></li>
+      <li><a href="/help/find-your-productivity-system" title="Guides">Guides</a></li>
+      <li><a href="https://community.workflowy.com" title="Forum">Community</a></li>
+    </ul>
+  </div>
+  <div class="flex-1 flex flex-col gap-s">
+    <h5>Use Cases</h5>
+    <ul>
+      <li><a href="/help/bullet-journal/" title="Bullet Journaling">Bullet Journaling</a></li>
+      <li><a href="/help/para-method/" title="Using Kanban">PARA Method</a></li>
+      <li><a href="/help/kanban-board/" title="Using Kanban">Using Kanban</a></li>
+      <li><a href="/list-maker/" title="List Making">List Making</a></li>
+      <li><a href="/help/checklist/" title="Creating Checklists">Creating Checklists</a></li>
+    </ul>
+  </div>
+  <div class="flex-1 flex flex-col gap-s">
+    <h5>About</h5>
+    <ul>
+      <li><a href="https://blog.workflowy.com/" title="Blog">Blog</a></li>
+      <li><a href="/privacy-policy/" title="Privacy">Privacy</a></li>
+      <li><a href="/ai-terms/" title="Workflowy AI">Workflowy AI</a></li>
+      <li><a href="/affiliates/" title="Affiliates">Affiliates</a></li>
+      <li><a href="https://status.workflowy.com/" title="System Status">System Status</a></li>
+    </ul>
+  </div>
+  <div class="flex-1 flex flex-col gap-s">
+    <h5>Follow us</h5>
+    <ul>
+      <li><a href="https://www.youtube.com/user/workflowy" title="YouTube">YouTube</a></li>
+      <li><a href="https://twitter.com/workflowy" title="X/Twitter">X/Twitter</a></li>
+      <li><a href="https://www.reddit.com/r/Workflowy/" title="Reddit">Reddit</a></li>
+      <li><a href="https://join.slack.com/t/workflowyusergroup/shared_invite/zt-1d4al6zv8-~rSCkIaobbMm~GmnhyWjjA" title="Slack Group">Slack Group</a></li>
+      <li><a href="https://www.linkedin.com/company/workflowy/" title="LinkedIn">LinkedIn</a></li>
+      <li><a href="https://www.tiktok.com/@workflowyapp" title="TikTok">TikTok</a></li>
+      <li><a href="https://t.me/workflowy" title="Telegram">Telegram</a></li>
+    </ul>
+  </div>
+</div>
+  
+
+  
+</body>
+</html>
